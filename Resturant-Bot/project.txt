@@ -1,0 +1,6 @@
+1. A basic chatbot by huggingface lib
+2. Knowledge base ready for the chatbot context awarness and also persona.
+* personality(customer service and sales person ) - System Prompt
+* Knowledge Base - Resturant Overview Description
+
+AIzaSyAOynelmDcIZsxxtmV1WUXC1ufuDVdnO-o

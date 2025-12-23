@@ -1,0 +1,15 @@
+{
+  "model_name": "gpt-2",
+  "tokenizer": {
+    "do_lower_case": true,
+    "padding": "max_length",
+    "max_length": 50
+  },
+  "generation": {
+    "max_length": 100,
+    "num_return_sequences": 1,
+    "temperature": 0.7,
+    "top_k": 50,
+    "top_p": 0.95
+  }
+}
